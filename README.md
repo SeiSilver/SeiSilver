@@ -1,11 +1,15 @@
-# ![icon-user](https://simp4.jpg.church/man.png) About Me:
+<img width="400" align="right" alt="" src="https://upload-os-bbs.hoyolab.com/upload/2022/10/28/8040671/72f599bab1cbe8fc0bdf5de1c6ae03aa_339723892389290016.gif"/>
+
+# 🐳 About Me:
+<br>
 Hi 👋, I'm SilverNeko
 
 A weeboo developer love anime stuff
 
-# ![icon-user](https://simp4.jpg.church/network.png) Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?logo=Facebook&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/Twitter-%23000000?logo=X&logoColor=white)]()
+# 🛜 Connect with me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=X&logoColor=white)]()
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,4 +37,4 @@ A weeboo developer love anime stuff
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeiSilver&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SeiSilver&label=Profile%20views&color=0e75b6&style=flat" alt="seisilver" /> </p>
+<img src="https://komarev.com/ghpvc/?username=SeiSilver&label=Profile%20views&color=0e75b6&style=flat" alt="seisilver" />
