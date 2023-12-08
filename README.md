@@ -1,7 +1,6 @@
 <img width="400" align="right" alt="" src="https://upload-os-bbs.hoyolab.com/upload/2022/10/28/8040671/72f599bab1cbe8fc0bdf5de1c6ae03aa_339723892389290016.gif"/>
 
 # 🐳 About Me:
-<br>
 Hi 👋, I'm SilverNeko
 
 A weeboo developer love anime stuff
